@@ -4,11 +4,12 @@
 
 
 ------------
-**
-Primer Proyecto en React, siguiendo el curso de React de Midudev.
-**
 
-*En este primer proyecto, se aprendio las diferencias y ventajas entre Programacion imperativa y declarativa, React Hooks, UseState, ReactDOM, React Components y JSX*
+
+## Primer Proyecto en React, siguiendo el curso de React de Midudev.
+
+
+*En este primer proyecto, se aprendió las diferencias y ventajas entre Programación imperativa y declarativa, React Hooks, UseState, ReactDOM, React Components y JSX*
 
 
 ------------
